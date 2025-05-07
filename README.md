@@ -1,1 +1,54 @@
-# lebacasable
+=== Fichier Descriptif du Groupe 3A1
+
+=== Présentation de la SAE
+
+Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gestion de projet, cahier de recette, cahier des charges 
+==== Présentation de l'équipe et rôles respectifs
+
+
+==== Répartition des tâches et état d'avancement (à compléter 
+[options="header,footer"]
+|=======================
+|version|rôle utilisateur     |use case           |  Bonnassie Enzo | Delas--Paillusson Maxens  |  CHAMIOT PRIEUR Evan  
+|Exemple 1    |  Administrateur | supprimer un tournois | F |   |  |  ||
+
+|=======================
+
+
+Chaque étudiant doit mettre son nom sur une des colonnes étudiant.
+Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a développé en indiquant
+
+*	*F* pour fonctionnel ou
+*	*D* pour encore en Développement
+
+==== Livrables
+
+[cols="1,2,2,5",options=header]
+|===
+| Date    | Nom         |  Lien                             | Retour Prof
+| 09/05   | CDC V1      |                                   |           
+|         |Gantt V1 Prévu|                                  |
+| 17/05 noté  | CdC final avec V2 et V3|                                     |  
+|         | Doc. Tec. V0 |        |    
+|         | Doc User V0    |        |
+|         | Recette V0  |                      | 
+| 31/05   | Gantt V1  réalisé    |       | 
+|         | Doc. Util. V1 |         |         
+|         | Doc. Tec. V1 |                |     
+|         | Code V1    |                     | 
+|         | Recette V1 |                      | 
+|         | Gantt V2 prévu |    | 
+| 06/06   | Gantt V2  réalisé    |       | 
+|         | Doc. Util. V2 |         |         
+|         | Doc. Tec. V2 |                |     
+|         | Code V2    |                     | 
+|         | Recette V2 |                      | 
+|         | `jar` projet |    | 
+| 13/06 noté   | Gantt V2 ou V3 réalisé Final + extensions éventuelles    |       | 
+|         | Doc. Util. V2 ou V3 Finale + extensions éventuelles |         |         
+|         | Doc. Tec. V2  ou V3 Finale + extensions éventuelles |                |     
+|         | Code V2 ou V3 Finale + extensions éventuelles    |                     | 
+|         | Recette V2 ou V3 Finale + extensions éventuelles |                      | 
+|         | `jar` projet Finale + extensions éventuelles |    | 
+|===
+Les dépôts non notés permettent d'avoir un retour enseignant pour vous améliorer et participent à la note de suivi de projet. Les dépôts notés sont évalué. 
