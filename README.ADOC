@@ -6,7 +6,7 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 ==== Présentation de l'équipe et rôles respectifs
 
 
-==== Répartition des tâches et état d'avancement (à compléter 
+==== Répartition des tâches et état d'avancement 
 [options="header,footer"]
 |=======================
 |version|rôle utilisateur     |use case           |  Bonnassie Enzo | Delas--Paillusson Maxens  |  CHAMIOT PRIEUR Evan  
