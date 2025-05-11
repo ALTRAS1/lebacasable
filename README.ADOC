@@ -15,8 +15,8 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 |=======================
 
 
-*	*F* pour fonctionnel ou
-*	*D* pour encore en Développement
+*	*F* pour : fonctionnel 
+*	*D* pour : en cour de Développement
 
 ==== Livrables
 
