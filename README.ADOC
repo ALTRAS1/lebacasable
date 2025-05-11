@@ -29,25 +29,32 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 |         | Doc util V0|                             |
 | 16/05 (noté)  | CdC final avec V2 et V3|                                     |  
 |         | Doc. Tec. V0 |        |    
-|         | Doc User V0    |        |
-|         | Recette V0  |                      | 
-| 31/05   | Gantt V1  réalisé    |       | 
+|         | Gantt prévu V1    |        |
+|         | Chiffrage prévisionnel |                      | 
+| 30/05   | Gantt V1  réalisé    |       | 
+|         | Gantt V2 prévu|      |     
 |         | Doc. Util. V1 |         |         
-|         | Doc. Tec. V1 |                |     
+|         | Doc. Tec. V0 - début V1 |                |     
 |         | Code V1    |                     | 
-|         | Recette V1 |                      | 
-|         | Gantt V2 prévu |    | 
+|         |  Cahier Tests V1 - début V2|                      | 
+|         | Jar V0 |    | 
 | 06/06   | Gantt V2  réalisé    |       | 
+|         | Gantt V3 prévu |    |  
 |         | Doc. Util. V2 |         |         
-|         | Doc. Tec. V2 |                |     
-|         | Code V2    |                     | 
-|         | Recette V2 |                      | 
-|         | `jar` projet |    | 
-| 13/06 noté   | Gantt V2 ou V3 réalisé Final + extensions éventuelles    |       | 
-|         | Doc. Util. V2 ou V3 Finale + extensions éventuelles |         |         
-|         | Doc. Tec. V2  ou V3 Finale + extensions éventuelles |                |     
-|         | Code V2 ou V3 Finale + extensions éventuelles    |                     | 
-|         | Recette V2 ou V3 Finale + extensions éventuelles |                      | 
-|         | `jar` projet Finale + extensions éventuelles |    | 
+|         | Doc. Tec. V2 + code|                |     
+|         | Cahier Tests V2 MAJ et V3    |                     | 
+|         | Jar V2 |                      | 
+| 14/06 noté   | Gantt V3 réalisé Final     |       | 
+|         | Doc. Util. V3 Final |         |     
+|         | Chiffrage réel |   | 
+|         | Doc. Tec. V3 Finale + code |                |     
+|         | Cahier Tests V3 et recette finale    |                     | 
+|         | Recette Finale |                      | 
+|         | Jar v3 |    | 
+| 20/06 noté |  Evaluation groupe   |      |
+|  |  Livraison client   |      |
+|  |  Bilan du projet   |      |
+|  |  Chiffrage  |      |
+|  |  Eval individuelle   |      |
 |===
 Les dépôts non notés permettent d'avoir un retour enseignant pour vous améliorer et participent à la note de suivi de projet. Les dépôts notés sont évalué. 
