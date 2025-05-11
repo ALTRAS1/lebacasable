@@ -1,4 +1,4 @@
-=== Fichier Descriptif du Groupe 3A1
+ === Fichier Descriptif du Groupe 3A1
 
 === Présentation de la SAE
 
@@ -23,9 +23,10 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 [cols="1,2,2,5",options=header]
 |===
 | Date    | Nom         |  Lien                             | Retour Prof
-| 09/05   | CDC V1      |                                   |           
+| Analyse préalable
+| 07/05   | CDC V1      |                                   |           
 |         |Gantt V1 Prévu|                                  |
-| 17/05 noté  | CdC final avec V2 et V3|                                     |  
+| 16/05 noté  | CdC final avec V2 et V3|                                     |  
 |         | Doc. Tec. V0 |        |    
 |         | Doc User V0    |        |
 |         | Recette V0  |                      | 
