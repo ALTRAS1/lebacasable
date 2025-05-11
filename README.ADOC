@@ -23,9 +23,11 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 [cols="1,2,2,5",options=header]
 |===
 | Date    | Nom         |  Lien                             | Retour Prof
-| 07/05   | CDC V1      |                                   |           
-|         |Gantt V1 Prévu|                                  |
-| 16/05 noté  | CdC final avec V2 et V3|                                     |  
+| 07/05   | Dépot Github prêt    |                                   |           
+|         | CDCU V1|                                  |
+|         | Cahier de recette V0|                   |
+|         | Doc util V0|                             |
+| 16/05 (noté)  | CdC final avec V2 et V3|                                     |  
 |         | Doc. Tec. V0 |        |    
 |         | Doc User V0    |        |
 |         | Recette V0  |                      | 
