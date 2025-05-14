@@ -24,7 +24,9 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 |===
 | Date    | Nom         |  Lien                             | Retour Prof
 | 07/05   | Dépot Github prêt    |                                   |           
-|         | CDCU V1|                                  |Attention j’attends du ascii doc et ce n’est pas ce qui est demandé ! Il faut reprendre les mêmes étapes qu’un recueil besoin en ajoutant les contraintes ! Il me manque le GANTT V1 également.
+|         | CDCU V1|                                  |Attention j’attends du ascii doc et ce n’est pas ce qui est demandé ! 
+                                                       Il faut reprendre les mêmes étapes qu’un recueil besoin en ajoutant 
+                                                       les contraintes ! Il me manque le GANTT V1 également.
 |         | Cahier de recette V0|                   |
 |         | Doc util V0|                             |
 | 16/05 (noté)  | CdC final avec V2 et V3|                                     |  
