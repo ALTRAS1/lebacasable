@@ -1,74 +1,56 @@
-= Fichier Descriptif du Groupe 3A1
+=== Exemple readme étudiant
 
-== Présentation de la SAE
-
-Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gestion de projet, cahier de recette, cahier des charges et création d'application avec Java, Oracle, JavaFX
-
-=== Présentation de l'équipe et rôles respectifs
-
-*Bonnassie Enzo - Chef de projet*
-
-*Chamiot-Prieur Evan - Developpeur*
-
-*Delas--Paillusson Maxens - Developpeur*
-
-=== Répartition des tâches et état d'avancement 
-[options="header,footer"]
-|=======================
-|version|rôle utilisateur     |use case           |  Bonnassie Enzo | Delas--Paillusson Maxens  |  CHAMIOT PRIEUR Evan  
-|Exemple 1    |  Administrateur | supprimer un tournois | F |   |  |  ||
-
-|=======================
+==== Présentation de l'équipe et rôles respectifs
 
 
-*	*F* pour : fonctionnel 
-*	*D* pour : en cour de Développement
+==== Répartition des tâches et état d'avancement (à compléter 
 
-== Livrables
-
-[cols="1,2,2,5",options=header]
-|===
-| Date    | Nom         |  Lien                             | Retour Prof
-| 07/05   | Dépot Github prêt    |                                   |           
-|         | CDCU V1|              https://raw.githubusercontent.com/ALTRAS1/lebacasable/refs/heads/main/CDCU%20V0.adoc
-              |Attention j’attends du ascii doc et ce n’est pas ce qui est demandé ! 
-                                                       Il faut reprendre les mêmes étapes qu’un recueil besoin en ajoutant 
-                                                       les contraintes ! Il me manque le GANTT V1 également.
-|         | Cahier de recette V0|  https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Cahier%20de%20recette%20V0.adoc               |le lien ne marche pas
-|         | Doc util V0|    https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Doc%20Util%20V0.adoc                        |
-| 16/05 (noté)  | CdC final avec V2 et V3| https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Cahier%20des%20Charges.adoc                                    |  page de garde non conforme : manque version, date, nom client, nom projet, intitulé doc. Format Asciidoc non respecté, des fautes. Contexte non développé, l'entreprise non plus ni sa problématique. Présentation des besoins fonctionnels insuffisants, proposer un UC par version ,prioriser les fonctionnalités à développer. Un effort de chiffrage est demandé, au moins en terme de salaire dev junior. Il manque les contraintes juridiques. C'est assez confus côté livrables attendus.
-Note finale 9.5/20
-|         | Doc. Tec. V0 |  https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Documentation%20Technique%20SAE%202.05.pdf      |  Entete à revoir (cf CDC) , format non conforme, il manque le contexte et le sommaire détaillé pour V1 au moins.  
-|         | Gantt prévu V1    | https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/GantV1Previ.pdf       | Mettre le Gantt sur une page. Il me manque les fonctonnalités V1 à développer !! Qui fait quoi c'est le cœur du Gantt. Il me manque les ressources ! Je dois avoir les issues correspondantes aux tâches créées dans le projet et présentes dans la colonne TODO. Le tableau du readme doit être complété, les fonctionnalités distribuées et à D (en attente de développement). Attention en l'état la note est de 1/4 !
+[cols="8*", options="header"]
+|==========================================================================================================================================================
+| version      | rôle utilisateur | use case                 | fonctionnalité           | nom Etudiant 1 | nom Etudiant 2 | nom Etudiant 3 | nom Etudiant 4
+| V0 (exemple) | Administrateur   | Gestion des utilisateurs | Supprimer un utilisateur |                | F              |                |               
+|==========================================================================================================================================================
 
 
 
+Chaque étudiant doit mettre son nom sur une des colonnes étudiant.
+Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a développé en indiquant
 
-|         | Chiffrage prévisionnel |  https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/GantV1Previ.pdf                    | 
-| 30/05   | Gantt V1  réalisé    |       | 
-|         | Gantt V2 prévu|      |     
-|         | Doc. Util. V1 |         |         
-|         | Doc. Tec. V0 - début V1 |                |     
-|         | Code V1    |                     | 
-|         |  Cahier Tests V1 - début V2|                      | 
-|         | Jar V0 |    | 
-| 06/06   | Gantt V2  réalisé    |       | 
-|         | Gantt V3 prévu |    |  
-|         | Doc. Util. V2 |         |         
-|         | Doc. Tec. V2 + code|                |     
-|         | Cahier Tests V2 MAJ et V3    |                     | 
-|         | Jar V2 |                      | 
-| 14/06 noté   | Gantt V3 réalisé Final     |       | 
-|         | Doc. Util. V3 Final |         |     
-|         | Chiffrage réel |   | 
-|         | Doc. Tec. V3 Finale + code |                |     
-|         | Cahier Tests V3 et recette finale    |                     | 
-|         | Recette Finale |                      | 
-|         | Jar v3 |    | 
-| 20/06 noté |  Evaluation groupe   |      |
-|  |  Livraison client   |      |
-|  |  Bilan du projet   |      |
-|  |  Chiffrage  |      |
-|  |  Eval individuelle   |      |
-|===
+*	*F* pour fonctionnel
+*	*D* pour encore en Développement
+*   *A* pour affecté mais pas encore développé
+
+==== Livrables
+
+[cols="4*", options="header"]
+|============================================================================
+| Date       | Nom                                       | Lien | Retour Prof
+| 09/05      | CDC V1                                    |      |            
+|            | Gantt V1 Prévu                            |      |            
+| 17/05 noté | CdC final avec V2 et V3                   |      |            
+|            | Doc. Tec. V0                              |      |            
+|            | Doc User V0                               |      |            
+|            | Recette V0                                |      |            
+| 30/05      | Doc Util V0 et début V1 éventuel          |      |            
+|            | Gantt V1 Prévu                            |      |            
+|            | Gantt V2 prévu                            |      |            
+|            | Doc. Tech. V0 - début V1 éventuel + code  |      |            
+|            | Cahier des tests V0                       |      |            
+|            | Jar V0                                    |      |            
+| 06/06      | Doc Util V1 et début V2 éventuel          |      |            
+|            | Gantt V1 Réalisé                          |      |            
+|            | Gantt V2 prévu                            |      |            
+|            | Doc. Tech. V1 + code et début V2 éventuel |      |            
+|            | Cahier Tests V1                           |      |            
+|            | Jar V1                                    |      |            
+| 13/06 noté | Doc Util V2 et V3 éventuel                |      |            
+|            | Gantt V2 Réalisé                          |      |            
+|            | Gantt V3 Prévu                            |      |            
+|            | Doc. Tech. V2 + code + V3 éventuel        |      |            
+|            | Cahier Tests V2 et recette finale         |      |            
+|            | Jar V2                                    |      |            
+|============================================================================
+
+
+
 Les dépôts non notés permettent d'avoir un retour enseignant pour vous améliorer et participent à la note de suivi de projet. Les dépôts notés sont évalué. 
