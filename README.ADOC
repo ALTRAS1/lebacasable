@@ -1,12 +1,18 @@
- === Fichier Descriptif du Groupe 3A1
+= Fichier Descriptif du Groupe 3A1
 
-=== Présentation de la SAE
+== Présentation de la SAE
 
-Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gestion de projet, cahier de recette, cahier des charges 
-==== Présentation de l'équipe et rôles respectifs
+Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gestion de projet, cahier de recette, cahier des charges et création d'application avec Java, Oracle, JavaFX
 
+=== Présentation de l'équipe et rôles respectifs
 
-==== Répartition des tâches et état d'avancement 
+*Bonnassie Enzo - Chef de projet*
+
+*Chamiot-Prieur Evan - Developpeur*
+
+*Delas--Paillusson Maxens - Developpeur*
+
+=== Répartition des tâches et état d'avancement 
 [options="header,footer"]
 |=======================
 |version|rôle utilisateur     |use case           |  Bonnassie Enzo | Delas--Paillusson Maxens  |  CHAMIOT PRIEUR Evan  
@@ -18,21 +24,27 @@ Le but de notre SAE est de savoir allier à la fois travail de groupe donc, gest
 *	*F* pour : fonctionnel 
 *	*D* pour : en cour de Développement
 
-==== Livrables
+== Livrables
 
 [cols="1,2,2,5",options=header]
 |===
 | Date    | Nom         |  Lien                             | Retour Prof
 | 07/05   | Dépot Github prêt    |                                   |           
-|         | CDCU V1|                                  |Attention j’attends du ascii doc et ce n’est pas ce qui est demandé ! 
+|         | CDCU V1|              https://raw.githubusercontent.com/ALTRAS1/lebacasable/refs/heads/main/CDCU%20V0.adoc
+              |Attention j’attends du ascii doc et ce n’est pas ce qui est demandé ! 
                                                        Il faut reprendre les mêmes étapes qu’un recueil besoin en ajoutant 
                                                        les contraintes ! Il me manque le GANTT V1 également.
-|         | Cahier de recette V0|                   |
-|         | Doc util V0|                             |
-| 16/05 (noté)  | CdC final avec V2 et V3|                                     |  
-|         | Doc. Tec. V0 |        |    
-|         | Gantt prévu V1    |        |
-|         | Chiffrage prévisionnel |                      | 
+|         | Cahier de recette V0|  https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Cahier%20de%20recette%20V0.adoc               |le lien ne marche pas
+|         | Doc util V0|    https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Doc%20Util%20V0.adoc                        |
+| 16/05 (noté)  | CdC final avec V2 et V3| https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Cahier%20des%20Charges.adoc                                    |  page de garde non conforme : manque version, date, nom client, nom projet, intitulé doc. Format Asciidoc non respecté, des fautes. Contexte non développé, l'entreprise non plus ni sa problématique. Présentation des besoins fonctionnels insuffisants, proposer un UC par version ,prioriser les fonctionnalités à développer. Un effort de chiffrage est demandé, au moins en terme de salaire dev junior. Il manque les contraintes juridiques. C'est assez confus côté livrables attendus.
+Note finale 9.5/20
+|         | Doc. Tec. V0 |  https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/Documentation%20Technique%20SAE%202.05.pdf      |  Entete à revoir (cf CDC) , format non conforme, il manque le contexte et le sommaire détaillé pour V1 au moins.  
+|         | Gantt prévu V1    | https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/GantV1Previ.pdf       | Mettre le Gantt sur une page. Il me manque les fonctonnalités V1 à développer !! Qui fait quoi c'est le cœur du Gantt. Il me manque les ressources ! Je dois avoir les issues correspondantes aux tâches créées dans le projet et présentes dans la colonne TODO. Le tableau du readme doit être complété, les fonctionnalités distribuées et à D (en attente de développement). Attention en l'état la note est de 1/4 !
+
+
+
+
+|         | Chiffrage prévisionnel |  https://github.com/IUT-Blagnac/sae2-01-05-devapp-2025-2025-3a1/blob/main/Livrables/S-20/GantV1Previ.pdf                    | 
 | 30/05   | Gantt V1  réalisé    |       | 
 |         | Gantt V2 prévu|      |     
 |         | Doc. Util. V1 |         |         
