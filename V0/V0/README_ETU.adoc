@@ -1,0 +1,99 @@
+=== Exemple readme étudiant
+
+==== Présentation de l'équipe et rôles respectifs
+
+_A COMPLETER : Présenter l'équipe_
+
+
+==== Répartition des tâches et état d'avancement
+
+Le tableau suivant est à compléter. Vous pouvez ajouter/modifier (pas supprimer)  des lignes à condition de les mettre en italique. Pour mettre des mots en gras, il faut les mettre entre deux astérisques (*).
+
+[options="header,footer"]
+|=======================
+|version|rôle     |use case   |fonctionnalité                 |   Etudiant 1 | Etudiant 2  |   Etudiant 3 | Etudiant 4
+
+// Version 0 - CRUD Initial
+|0    |ORGANISATEUR    |Gestion des tournois  |Créer un tournoi| | | |
+|0    |ORGANISATEUR    |Gestion des tournois  |Modifier un tournoi| | | |
+|0    |ORGANISATEUR    |Gestion des tournois  |Supprimer un tournoi| | | |
+|0    |ORGANISATEUR    |Gestion des tournois  |Consulter les tournois| | | |
+|0    |ORGANISATEUR    |Gestion des staff  |Créer un staff| | | |
+|0    |ORGANISATEUR    |Gestion des staff  |Modifier un staff| | | |
+|0    |ORGANISATEUR    |Gestion des staff  |Supprimer un staff| | | |
+|0    |ORGANISATEUR    |Gestion des staff  |Consulter les staff| | | |
+|0    |ORGANISATEUR    |Gestion des affectations  |Affecter un staff| | | |
+|0    |ORGANISATEUR    |Gestion des affectations  |Modifier une affectation| | | |
+|0    |ORGANISATEUR    |Gestion des affectations  |Supprimer une affectation| | | |
+|0    |ORGANISATEUR    |Gestion des affectations  |Consulter les affectations| | | |
+|0    |ADMIN    |Gestion des utilisateurs  |Créer un utilisateur| | | |
+|0    |ADMIN    |Gestion des utilisateurs  |Modifier un utilisateur| | | |
+|0    |ADMIN    |Gestion des utilisateurs  |Supprimer un utilisateur| | | |
+|0    |ADMIN    |Gestion des utilisateurs  |Consulter les utilisateurs| | | |
+
+// Version 1 - Gestion des Équipes et Jeux
+|1    |ADMIN    |Gestion des joueurs  |Créer un joueur| | | |
+|1    |ADMIN    |Gestion des joueurs  |Modifier un joueur| | | |
+|1    |ADMIN    |Gestion des joueurs  |Supprimer un joueur| | | |
+|1    |ADMIN    |Gestion des joueurs  |Consulter les joueurs| | | |
+|1    |ORGANISATEUR    |Gestion des équipes  |Créer une équipe| | | |
+|1    |ORGANISATEUR    |Gestion des équipes  |Modifier une équipe| | | |
+|1    |ORGANISATEUR    |Gestion des équipes  |Supprimer une équipe| | | |
+|1    |ORGANISATEUR    |Gestion des équipes  |Consulter les équipes| | | |
+|1    |ORGANISATEUR    |Gestion des jeux  |Créer un jeu| | | |
+|1    |ORGANISATEUR    |Gestion des jeux  |Modifier un jeu| | | |
+|1    |ORGANISATEUR    |Gestion des jeux  |Supprimer un jeu| | | |
+|1    |ORGANISATEUR    |Gestion des jeux  |Consulter les jeux| | | |
+|1    |ORGANISATEUR    |Affectation  |Affecter joueur à équipe| | | |
+
+// Version 2 - Gestion des PDF et Inscriptions
+|2    |ORGANISATEUR    |Gestion des inscriptions  |Inscrire une équipe| | | |
+|2    |ORGANISATEUR    |Gestion des inscriptions  |Modifier une inscription| | | |
+|2    |ORGANISATEUR    |Gestion des inscriptions  |Supprimer une inscription| | | |
+|2    |ORGANISATEUR    |Gestion des inscriptions  |Consulter les inscriptions| | | |
+|2    |ORGANISATEUR    |Documents  |Générer PDF tournoi| | | |
+|2    |ADMIN    |Documents  |Générer PDF joueur| | | |
+|2    |ADMIN    |Documents  |Générer PDF liste joueurs| | | |
+|=======================
+
+Chaque étudiant doit mettre son nom sur une des colonnes étudiant.
+Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a développé en indiquant :
+
+*	*F* pour fonctionnel
+*	*D* pour encore en Développement
+*   *A* pour affecté mais pas encore développé
+
+
+==== Livrables
+
+[cols="4*", options="header"]
+|============================================================================
+| Date       | Nom                                       | Lien | Retour Prof
+| 09/05      | CDC V1                                    |      |            
+|            | Gantt V1 Prévu                            |      |            
+| 17/05 noté | CdC final avec V2 et V3                   |      |            
+|            | Doc. Tec. V0                              |      |            
+|            | Doc User V0                               |      |            
+|            | Recette V0                                |      |            
+| 30/05      | Doc Util V0 et début V1 éventuel          |      |            
+|            | Gantt V1 Prévu                            |      |            
+|            | Gantt V2 prévu                            |      |            
+|            | Doc. Tech. V0 - début V1 éventuel + code  |      |            
+|            | Cahier des tests V0                       |      |            
+|            | Jar V0                                    |      |            
+| 06/06      | Doc Util V1 et début V2 éventuel          |      |            
+|            | Gantt V1 Réalisé                          |      |            
+|            | Gantt V2 prévu                            |      |            
+|            | Doc. Tech. V1 + code et début V2 éventuel |      |            
+|            | Cahier Tests V1                           |      |            
+|            | Jar V1                                    |      |            
+| 13/06 noté | Doc Util V2 et V3 éventuel                |      |            
+|            | Gantt V2 Réalisé                          |      |            
+|            | Gantt V3 Prévu                            |      |            
+|            | Doc. Tech. V2 + code + V3 éventuel        |      |            
+|            | Cahier Tests V2 et recette finale         |      |            
+|            | Jar V2                                    |      |            
+|============================================================================
+
+
+Les dépôts non notés permettent d'avoir un retour enseignant pour vous améliorer et participent à la note de suivi de projet. Les dépôts notés sont évalué. 

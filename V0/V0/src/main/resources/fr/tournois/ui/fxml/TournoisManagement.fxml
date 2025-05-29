@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="fr.tournois.ui.controller.TournoisManagementController">
+
+    <top>
+        <HBox spacing="10">
+            <Button fx:id="btnNouveauTournoi" text="Nouveau" onAction="#doNouveauTournoi"/>
+            <Button fx:id="btnModifierTournoi" text="Modifier" onAction="#doModifierTournoi"/>
+            <Button fx:id="btnSupprimerTournoi" text="Supprimer" onAction="#doSupprimerTournoi"/>
+            <Button fx:id="btnGererInscriptions" text="Gérer les inscriptions" onAction="#doGererInscriptions"/>
+        </HBox>
+    </top>
+    
+    <center>
+        <HBox spacing="10">
+            <!-- Liste des tournois -->
+            <VBox spacing="10" HBox.hgrow="ALWAYS">
+                <Label text="Tournois" style="-fx-font-weight: bold"/>
+                <ListView fx:id="tournoisListView" VBox.vgrow="ALWAYS"/>
+            </VBox>
+            
+            <!-- Liste des staff -->
+            <VBox spacing="10" HBox.hgrow="ALWAYS">
+                <Label text="Staff du tournoi" style="-fx-font-weight: bold"/>
+                <ListView fx:id="staffListView" VBox.vgrow="ALWAYS"/>
+                <HBox spacing="10">
+                    <Button fx:id="btnAjouterStaff" text="Ajouter Staff" onAction="#doAjouterStaff"/>
+                    <Button fx:id="btnRetirerStaff" text="Retirer Staff" onAction="#doRetirerStaff"/>
+                </HBox>
+            </VBox>
+        </HBox>
+    </center>
+</BorderPane>
+
