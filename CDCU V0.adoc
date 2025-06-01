@@ -6,7 +6,7 @@
 
 == 1. Présentation du projet
 
-image::ImagesDos/cahier de recette V0.jpg
+image: :ImagesDos/cahier de recette V0.jpg
 
 === 1.1. Contexte
 
