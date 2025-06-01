@@ -9,8 +9,6 @@
 
 image::ImagesDos/cahier%20de%20recette%20V0.jpg[width=400, height=300, align=center]
 
-
-
 === 1.1. Contexte
 
 Dans le cadre de l’essor du Esport en France, devenu un véritable phénomène de société, l’entreprise SIMULAND souhaite développer une application Java-Oracle de gestion des tournois de jeux vidéo. Ce développement s’inscrit dans la continuité de l’application existante « LiveTournois », qu’il faudra faire évoluer.
